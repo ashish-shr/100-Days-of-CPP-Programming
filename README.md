@@ -1,4 +1,4 @@
-# 100-Day C++ Programming Journey 🚀
+# 100-Days of C++ Programming 🚀
 
 ## Overview
 
