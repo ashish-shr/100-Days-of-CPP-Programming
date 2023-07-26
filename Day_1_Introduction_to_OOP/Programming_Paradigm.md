@@ -2,7 +2,7 @@
 
 ## What is a Programming Paradigm?
 
-It is a method or style of programming to solve problems.
+Paradigm can be termed as method to solve some problem or do some task. Similarly, Programming Paradigm is a method, style or approach of programming to solve problems. They are mainly of two types: Imperative Programming Paradigm and Declarative Programming Paradigm.
 
 ## Types of Programming Paradigm
 
