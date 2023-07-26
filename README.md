@@ -1,10 +1,10 @@
-# 100-Days of C++ Programming 🚀
+> # 🚀 100-Days of C++ Programming
 
-## Overview
+## 🪟 Overview
 
 I am excited to embark on a 100-day journey of learning C++ Programming! 🎉 Throughout this period, I will be mastering C++ Programming, starting from the basics and progressing to advanced concepts. I have outlined a comprehensive curriculum that covers a wide range of topics, ensuring a solid understanding of this versatile language.
 
-## Topics Covered
+## 🎯 Topics Covered
 
 - **What is OOP?** Understanding the fundamental concept of Object-Oriented Programming and its significance in modern software development.
 - **Structure of CPP Programs:** Grasping the layout and organization of C++ programs to build robust and scalable applications.
