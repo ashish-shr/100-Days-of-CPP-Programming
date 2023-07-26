@@ -55,7 +55,7 @@ It mainly consists of three programming paradigm.
 #### c. Database Programming Paradigm
 
 - Data-centric programming methodology.
-- Focuses on definition, query, manupulation and control of data.
+- Focuses on definition, query, manipulation and control of data.
 - Example: SQL.
 
 ## Imperative and Declarative Programming Paradigm
