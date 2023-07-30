@@ -2,7 +2,7 @@
 
 ## Documentation Section
 
-This section features general information about the program written such as who is the author of program?, what is the program about?. So, it gives a basic overview of a without actually looking through line by line of code. But this is not mandatory. It is written using comments that might be single line or multiline comment.
+This section features general information about the program written such as who is the author of program?, what is the program about?. So, it gives a basic overview of a program without actually looking through line by line of code. But this is not mandatory. It is written using comments that might be single line or multiline comment.
 
 ## Link Section
 
