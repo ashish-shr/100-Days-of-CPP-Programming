@@ -14,7 +14,7 @@
 ## Output stream
 
 - It is the flow of bytes from main memory to output device.
-- It consists object like 'cout', 'cerr', and 'clog' of.
+- It consists of object like 'cout', 'cerr', and 'clog'.
 - Screen is used for standard output.
 
 ## iostream header
