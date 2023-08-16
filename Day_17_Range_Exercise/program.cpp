@@ -6,6 +6,7 @@ Now, find how many numbers are evenly divisible by either 3 or 5.
 
 #include <iostream>
 #include <vector>
+#include <conio.h>
 using namespace std;
 
 int main()
@@ -18,5 +19,6 @@ int main()
       count++;
   }
   cout << count << " numbers are divisible by either 3 or 5.";
+  getch();
   return 0;
 }
