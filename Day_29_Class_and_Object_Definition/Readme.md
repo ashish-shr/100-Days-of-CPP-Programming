@@ -47,7 +47,7 @@
   };
 ```
 
-#### Program
+## Program
 
 ```cpp
 // Program to define a Class and creating an Object
