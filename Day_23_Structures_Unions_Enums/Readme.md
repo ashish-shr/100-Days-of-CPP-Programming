@@ -79,3 +79,83 @@
 ```cpp
 enum enum_name{member1, member2, ......, memberN};
 ```
+
+## Program
+
+```cpp
+// C++ program to demonstrate Structures
+
+#include <iostream>
+using namespace std;
+
+struct student
+{
+  int roll;
+  string name;
+};
+
+int main()
+{
+  struct student s;
+  // Assign values to members of student
+  s.roll = 1;
+  s.name = "Ashish Shrestha";
+
+  // Print members of student
+  cout << s.roll << "\n";
+  cout << s.name << "\n";
+  return 0;
+}
+```
+
+```cpp
+// C++ program to demonstrate Unions
+
+#include <iostream>
+using namespace std;
+
+union employee
+{
+  float salary;
+  int work_hour;
+} emp;
+
+int main()
+{
+  emp.salary = 143.3;
+
+  // when emp.work_hour is assigned a value, emp.salary will no longer hold 143.3
+  emp.work_hour = 8;
+
+  // Print members of employee
+  cout << emp.salary << endl;
+  cout << emp.work_hour;
+  return 0;
+}
+```
+
+```cpp
+// C++ program to demonstrate Enums
+
+#include <iostream>
+using namespace std;
+
+enum week
+{
+  Sun,
+  Mon,
+  Tue,
+  Wed,
+  Thur,
+  Fri,
+  Sat
+};
+
+int main()
+{
+  enum week day;
+  day = Wed;
+  cout << day; // day -> 3
+  return 0;
+}
+```

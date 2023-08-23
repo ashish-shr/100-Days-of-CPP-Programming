@@ -72,3 +72,65 @@
     return 0;
   }
 ```
+
+## Program
+
+```cpp
+// CPP Program to demonstrate constant arguments
+
+#include <iostream>
+using namespace std;
+
+void len(const int num)
+{
+  // this is not allowed
+  num = 4;
+}
+
+int main()
+{
+  len(321);
+  return 0;
+}
+```
+
+```cpp
+// CPP Program to demonstrate default arguments
+
+#include <iostream>
+using namespace std;
+
+// function with default arguments
+int sum(int x, int y, int z = 0, int w = 0)
+{
+  return (x + y + z + w);
+}
+
+int main()
+{
+  cout << sum(10, 15) << endl;
+  cout << sum(10, 15, 25) << endl;
+  cout << sum(10, 15, 25, 30) << endl;
+  return 0;
+}
+```
+
+```cpp
+// CPP Program to demonstrate inline function
+
+#include <iostream>
+using namespace std;
+
+// inline function
+inline int cube(int s)
+{
+  return s * s * s;
+}
+
+int main()
+{
+  cout << "The cube of 3 is: " << cube(3) << "\n";
+  return 0;
+}
+
+```
