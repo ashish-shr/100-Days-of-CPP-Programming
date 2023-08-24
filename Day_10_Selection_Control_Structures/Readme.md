@@ -1,7 +1,5 @@
 # ⚡Control Structures in C++
 
-## Selection Control Structure
-
 ## Control structures
 
 - Control Structures are just a way to specify flow of control in programs.
@@ -23,53 +21,69 @@
 ## if() statement
 
 - It is used to decide whether a certain statement or block of statements will be executed or not i.e if a certain condition is true then a block of statements is executed otherwise not.
-- Syntax:
-  > if(condition)<br>
-  > {<br> &nbsp;&nbsp;&nbsp;&nbsp;// Statements to execute if condition is true<br>
-  > }
+
+#### Syntax:
+
+```cpp
+  if(condition)
+  {
+    // Statements to execute if condition is true
+  }
+```
 
 ## if-else() statement
 
 - It consists of two blocks, one for false expression and one for true expression.
-- Syntax:
-  > if(condition)<br>
-  > {<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > // Statements to execute if condition is true<br>
-  > }<br>
-  > else<br>
-  > {<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > // Executes this block if condition is false<br>
-  > }
+
+#### Syntax:
+
+```cpp
+  if(condition)
+  {
+    // Statements to execute if condition is true
+  }
+  else
+  {
+    // Executes this block if condition is false
+  }
+```
 
 ## else-if() ladder statement
 
-- Syntax:
-  > if (condition 1)<br>
-  > {<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > statement 1;<br>
-  > }<br>
-  > else if (condition 2)<br>
-  > {<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > statement 2;<br>
-  > }<br>
-  > else<br>
-  > {<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > statement;<br>
-  > }
+#### Syntax:
+
+```cpp
+  if (condition 1)
+  {
+    statement 1;
+  }
+  else if (condition 2)
+  {
+    statement 2;
+  }
+  else
+  {
+    statement;
+  }
+```
 
 ## Nested if-else() statement
 
 - Nested if statements mean an if statement inside another if statement and Similarly for a if-else() and else-if() ladder statements.
-- Syntax:
-  > if (condition1)<br>
-  > {<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > // Executes when condition1 is true<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > if (condition2)<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  > // Executes when condition2 is true<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > }<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > else<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > {<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  > // Executes when condition2 is false<br>&nbsp;&nbsp;&nbsp;&nbsp;
-  > }<br>
-  > }
+
+#### Syntax:
+
+```cpp
+  if (condition1)
+  {
+    // Executes when condition1 is true
+    if (condition2)
+    {
+      // Executes when condition2 is true
+    }
+    else
+    {
+      // Executes when condition2 is false
+    }
+  }
+```

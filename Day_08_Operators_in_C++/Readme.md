@@ -63,3 +63,24 @@
 - sizeof() operator gives size of datatype or variable.
 - address operator(&) gives address of a variable. [pointers]
 - casting operator forcefully convert one datatype into another.
+
+## Relational Operators
+
+```cpp
+a = 3, b = 10
+a == b (false)
+a != b (true)
+a < b (true)
+a > b (false)
+a <= b (true)
+a >= b (false)
+```
+
+## Logical Operators
+
+```cpp
+a = 3, b = 10, c = 8
+(a > b) && (a > c) => false
+(a < b) || (a > c) => true
+!a => false
+```
