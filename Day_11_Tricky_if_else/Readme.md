@@ -9,7 +9,7 @@ condition = false
 ```cpp
  if(condition);
  {
- cout << ”coffee” << endl;
+    cout << ”coffee” << endl;
  }
  cout << ”go home!” << endl;
 ```
@@ -23,7 +23,7 @@ Money = 500
 ```cpp
 if(Money = 1000)
 {
-cout << ”coffee” << endl;
+  cout << ”coffee” << endl;
 }
 cout << ”go home!” << endl;
 ```
@@ -50,7 +50,7 @@ Money = 100
 ```cpp
 if(Money);
 {
-cout << ”coffee” << endl;
+  cout << ”coffee” << endl;
 }
 cout << ”go home!” << endl;
 ```
@@ -66,11 +66,11 @@ Money = 100
 ```cpp
 if(Money >= 100);
 {
-cout << ”coffee” << endl;
+  cout << ”coffee” << endl;
 }
 else
 {
-cout<< “tea” << endl;
+  cout<< “tea” << endl;
 }
 cout << ”go home!” << endl;
 ```
@@ -84,12 +84,12 @@ Money = 100
 ```cpp
 if(Money >= 100)
 {
-cout << ”coffee” << endl;
+  cout << ”coffee” << endl;
 }
 cout<< “nice evening” << endl;
 else
 {
-cout<< “tea” << endl;
+  cout<< “tea” << endl;
 }
 cout << ”go home!” << endl;
 ```
@@ -103,11 +103,11 @@ Money = 100
 ```cpp
 if(Money >= 100);
 {
-cout << ”coffee” << endl;
+  cout << ”coffee” << endl;
 }
 else;
 {
-cout<< “tea” << endl;
+  cout<< “tea” << endl;
 }
 cout << ”go home!” << endl;
 ```
