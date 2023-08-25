@@ -25,9 +25,9 @@ class student
 
 int main()
 {
-  student demo;
+  student demo; //gives output: I am a constructor
   return 0;
 }
 ```
 
-Here, student() is a constructor, which is also a member function of class student. So, when object demo is created, the constructor student() is invoked automatically.
+Here, student() is a constructor, which is also a member function of class student. So, when object demo is created, the constructor student() is invoked automatically. Thus, "I am a constructor" is displayed.
