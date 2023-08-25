@@ -1,4 +1,4 @@
-# ⚡The Class Constructors.
+# ⚡The Class Constructors
 
 ## Class Constructors
 
