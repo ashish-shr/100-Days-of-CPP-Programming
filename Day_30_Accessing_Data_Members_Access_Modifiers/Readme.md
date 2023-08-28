@@ -35,7 +35,7 @@
 
 - A protected member variable or function is very similar to a private member they can be accessed in child classes which are called derived classes.
 
-## Program
+## Programs
 
 ```cpp
 // Program to access data members of class

@@ -16,7 +16,7 @@
   }
 ```
 
-#### Program
+## Program
 
 ```cpp
 // Program to demonstrate destructor
