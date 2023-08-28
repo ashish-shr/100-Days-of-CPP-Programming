@@ -73,7 +73,7 @@
   }
 ```
 
-## Program
+## Programs
 
 ```cpp
 // CPP Program to demonstrate constant arguments

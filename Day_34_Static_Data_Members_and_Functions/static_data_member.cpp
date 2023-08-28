@@ -1,36 +1,22 @@
-// Program to demonstrate static data members
+// Program to demonstrate static data member
 
 #include <iostream>
 using namespace std;
 
 class student
 {
-  string name;
-  string faculty;
-  static int i; // static data member declaration
-
 public:
-  student(string n, string f)
-  {
-    name = n;
-    faculty = f;
-  }
-  void showData()
-  {
-    cout << "Student " << i << endl;
-    cout << "Name: " << name << endl;
-    cout << "Faculty: " << faculty << endl;
-    i++;
-  }
+  static int id; // static data member declaration
 };
 
-int student::i = 1; // static data member declaration
+int student::id; // static data member definition
 
 int main()
 {
-  student s1("Bishal Baniya", "Education");
-  s1.showData();
-  student s2("Diwakar Phuyal", "Education");
-  s2.showData();
+  student s1, s2;
+  s1.id = 3;
+  s2.id = 8;
+  cout << s1.id << endl;
+  cout << s2.id << endl;
   return 0;
 }

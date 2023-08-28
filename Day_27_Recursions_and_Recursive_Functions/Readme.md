@@ -29,7 +29,7 @@ Below is the working of recursion in C++:
 2. Fibonacci Series Using Recursion in C++.
 3. Calculate Number Power Using Recursion.
 
-## Program
+## Programs
 
 ```cpp
 // 1. Fibonacci Series Using Recursion in C++.
