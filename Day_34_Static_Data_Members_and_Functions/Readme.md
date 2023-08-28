@@ -45,7 +45,7 @@ int main()
 - A static member function can access static data members and static member functions inside or outside of the class.
 - A function can be made static by using the keyword static before the function name while defining a class.
 
-#### Syntax
+### Syntax
 
 ```cpp
 class class_name
