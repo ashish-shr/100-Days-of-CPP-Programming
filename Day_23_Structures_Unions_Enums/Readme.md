@@ -80,7 +80,7 @@
 enum enum_name{member1, member2, ......, memberN};
 ```
 
-## Program
+## Programs
 
 ```cpp
 // C++ program to demonstrate Structures
