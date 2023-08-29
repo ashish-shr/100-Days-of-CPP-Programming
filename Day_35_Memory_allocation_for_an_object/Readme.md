@@ -6,5 +6,4 @@
 - Since a single data member can have different values for different objects at the same time, every object declared for the class has an individual copy of all the data members.
 - On the other hand, the memory space for the member functions is allocated only once when the class is defined.
 - In other words, there is only a single copy of each member function, which is shared among all the objects
-
   ### <img src = "1_Memory_allocation_for_an_object.png">
