@@ -1,0 +1,43 @@
+// Program to demonstrate object as function arguments
+
+#include <iostream>
+using namespace std;
+
+class complex
+{
+  int real, imag;
+
+public:
+  void getData(int r, int i);
+  void addData(complex c1, complex c2); // object as function arguments
+  void showData();
+};
+
+void complex::getData(int r, int i)
+{
+  real = r;
+  imag = i;
+}
+
+void complex::addData(complex c1, complex c2) // object as function arguments
+{
+  real = c1.real + c2.real;
+  imag = c1.imag + c2.imag;
+}
+
+void complex::showData()
+{
+  cout << real << "+" << imag << "i" << endl;
+}
+
+int main()
+{
+  complex c1, c2, c3;
+  c1.getData(1, 2);
+  c1.showData();
+  c2.getData(3, 4);
+  c2.showData();
+  c3.addData(c1, c2);
+  c3.showData();
+  return 0;
+}
