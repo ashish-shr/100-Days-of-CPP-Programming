@@ -7,7 +7,7 @@
 - Friend functions have objects as arguments.
 - It cannot access the member names directly and has to use dot membership operator and use an object name with the member name.
 
-#### Syntax
+#### Friend function declaration
 
 ```cpp
     class className
@@ -16,7 +16,11 @@
         friend return_type functionName(arguments);
         ..........
     }
+```
 
+#### Friend function definition
+
+```cpp
     return_type functionName(arguments)
     {
         ..........
