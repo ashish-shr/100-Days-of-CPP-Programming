@@ -31,7 +31,7 @@ public:
 
 int main()
 {
-  volume v;               // default argument will be invoked
+  volume v;               // default constructor will be invoked
   volume cube(3);         // constructor with 1 argument will be invoked
   volume cuboid(3, 2, 1); // constructor with 3 arguments will be invoked
   return 0;
