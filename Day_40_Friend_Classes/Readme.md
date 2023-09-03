@@ -1,4 +1,4 @@
-# ⚡Friend Class
+# ⚡Friend Class in C++
 
 - A class can also be declared to be the friend of some other class.
 - When we create a friend class then all the member functions of the friend class also become the friend of the other class.
