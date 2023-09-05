@@ -2,6 +2,8 @@
 
 ## Pointers
 
+## <img src="1.png">
+
 - A pointer however, is a variable that stores the memory address/reference of another variable as its value.
 - Pointers are symbolic representation of addresses.
 - A pointer variable points to a data type of the same type, and is created with the \* operator.
