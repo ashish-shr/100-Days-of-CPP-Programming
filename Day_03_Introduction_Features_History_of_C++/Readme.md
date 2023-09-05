@@ -27,6 +27,8 @@
 
 ## History of C++
 
+#### <img src ="15.png">
+
 - C++ was originally named "C with Classes".
 - It is renamed C++ in 1983.
 - The first commercial version of C++ i.e. C++ Programming Language was released in 1985.

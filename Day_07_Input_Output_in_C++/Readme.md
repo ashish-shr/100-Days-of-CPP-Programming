@@ -2,6 +2,8 @@
 
 ## Stream
 
+#### <img src="29.png">
+
 - In C++, input and output are performed in the form of a sequence of bytes i.e. called stream.
 - There are commonly two type of streams i.e. input stream(istream) and output stream(ostream).
 

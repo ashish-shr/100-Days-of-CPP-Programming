@@ -11,6 +11,8 @@
 
 ## Variables
 
+#### <img src="17.png">
+
 - Variables are the name given to a memory location where we store the data.
 - The values of a variable can be changed during the execution of the program.
 - Variables are declared using various naming convention.
@@ -28,6 +30,8 @@
 
 ## Naming convention for Variables and Identifiers
 
+#### <img src="18.png">
+
 - They should contain letters (a-z/A-Z), digits (0-9) or underscore( \_ ).
 - They are case-sensitive i.e. lowercase and uppercase are two different things.
 - The name should start with a letter (a-z/A-Z) or underscore( \_ ).
@@ -35,6 +39,8 @@
 - Keywords cannot be used for naming.
 
 ## Keywords
+
+#### <img src="19.png">
 
 - Keywords are the words which are reserved or predefined.
 - Keywords always starts in lowercase.

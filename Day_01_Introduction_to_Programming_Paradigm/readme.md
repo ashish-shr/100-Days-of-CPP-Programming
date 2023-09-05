@@ -2,6 +2,7 @@
 
 ## What is a Programming Paradigm?
 
+<img src = "1.png">
 Paradigm can be termed as method to solve some problem or do some task. Similarly, Programming Paradigm is a method, style or approach of programming to solve problems. They are mainly of two types: Imperative Programming Paradigm and Declarative Programming Paradigm.
 
 ## Types of Programming Paradigm
@@ -10,6 +11,7 @@ There are two major types of programming paradigm.
 
 ### 1. Imperative Programming Paradigm
 
+<img src = "2.png">
 It mainly consists of three programming paradigm.
 
 #### a. Procedural Oriented Programming Paradigm
@@ -33,6 +35,7 @@ It mainly consists of three programming paradigm.
 
 ### 2. Declarative Programming Paradigm
 
+<img src = "3.png">
 It mainly consists of three programming paradigm.
 
 #### a. Logic Programming Paradigm
@@ -80,6 +83,8 @@ It mainly consists of three programming paradigm.
 
 ### 1. Procedural Oriented Programming Paradigm
 
+#### <img src = "4.png">
+
 - Whole program is divided into multiple functions.
 - These functions are interdependent as well.
 - Each and every functions have their own local data and can share global data.
@@ -90,6 +95,8 @@ It mainly consists of three programming paradigm.
 - Examples: C, Pascal etc.
 
 ### 2. Object Oriented Programming Paradigm
+
+#### <img src = "5.png">
 
 - Whole program is divided into parts i.e. objects.
 - Data and function is wrapped into a single unit called Object.
