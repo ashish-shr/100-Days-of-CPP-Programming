@@ -36,15 +36,11 @@ There are six fundamental concepts of OOPs.
 
 ## Inheritance
 
-#### <img src ="9.png">
-
 - Using inheritance, a child class can inherit the data and code or common properties from the base class.
 - Inheritance provides code reusability.
 - Using inheritance, we can only manipulate the data of object whose data and code are binded together in that object.
 
 ## Abstraction
-
-#### <img src ="10.png">
 
 - Abstraction includes hiding the implementation detail from the world and showing only the relevant detail to the world.
 - It includes hiding something into a function or interface.
