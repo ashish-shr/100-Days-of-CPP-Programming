@@ -2,6 +2,8 @@
 
 ## Switch case statement
 
+## <img src="1.png">
+
 - The switch case statement executes the different blocks of statements based on the value of the given expression.
 - It is used as an alternative to long else-if() ladder statement.
 - Syntax:
