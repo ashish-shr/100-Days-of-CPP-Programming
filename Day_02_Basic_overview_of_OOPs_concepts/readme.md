@@ -16,6 +16,8 @@ There are six fundamental concepts of OOPs.
 
 ### Class
 
+#### <img src="7.png">
+
 - Class is just a blueprint, logical, definition, prototype thing through which we can create an object.
 - Class is a user-defined datatype like a structure in Procedural Oriented Programming Paradigm.
 - Class consists of data and code.
