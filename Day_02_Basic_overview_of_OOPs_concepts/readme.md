@@ -16,8 +16,6 @@ There are six fundamental concepts of OOPs.
 
 ### Class
 
-#### <img src = "7.png">
-
 - Class is just a blueprint, logical, definition, prototype thing through which we can create an object.
 - Class is a user-defined datatype like a structure in Procedural Oriented Programming Paradigm.
 - Class consists of data and code.
@@ -26,8 +24,6 @@ There are six fundamental concepts of OOPs.
 - They are the group of objects which share common properties or attributes.
 
 ### Object
-
-#### <img src = "8.png">
 
 - Objects are the instance or real life entity created using class.
 - Each objects have their own data and function.
@@ -52,8 +48,6 @@ There are six fundamental concepts of OOPs.
 - Encapsulation provides data security and privacy.
 
 ## Polymorphism
-
-#### <img src = "12.png">
 
 - Polymorphism simply means having multiple forms of a same instance.
 - They are of two types:
