@@ -2,6 +2,8 @@
 
 ## Range based for() loop
 
+## <img src="1.png">
+
 - It was added since C++ 11.
 - It executes for() loop over a range.
 - It is used as a more readable equivalent to the traditional for() loop operating over a range of values, such as all elements in a container.

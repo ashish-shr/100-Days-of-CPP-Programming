@@ -2,6 +2,8 @@
 
 ## Arrays
 
+## <img src="1.png">
+
 - Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 - The elements of an array is defined with index starting from 0.
 - Arrays is of two types mainly i.e. Single dimensional(1-D) and Multidimensional.

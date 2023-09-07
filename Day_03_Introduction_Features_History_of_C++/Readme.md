@@ -15,6 +15,8 @@
 
 ## Features of C++
 
+#### <img src="14.png">
+
 - It supports OOP.
 - It is general purpose programming language i.e. used in system level as well as application level programming.
 - It is faster than other programming languages such as Python and Java.
