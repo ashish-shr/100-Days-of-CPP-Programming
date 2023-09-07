@@ -51,8 +51,6 @@ There are six fundamental concepts of OOPs.
 
 ## Encapsulation
 
-#### <img src = "11.png">
-
 - Encapsulation includes wrapping up of data and functions into a single unit.
 - We can hide this data from the outside world using access specifier.
 - Encapsulation provides data security and privacy.
