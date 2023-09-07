@@ -1,5 +1,7 @@
 # ⚡Operators Precedence and Associativity in C++
 
+## <img src="1.jpg">
+
 ## Operators Precedence
 
 If there are multiple operators in a single expression, the operations are not evaluated simultaneously. Rather, the operators with higher precedence or priority have their operations evaluated first.

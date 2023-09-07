@@ -31,7 +31,7 @@
 
 ## float
 
-#### <img src="23.png>
+#### <img src="23.png">
 
 - Size: 4 bytes
 - Precision upto 7 digits.
@@ -45,34 +45,34 @@
 
 ## long double
 
-#### <img src="25.png">
-
 - Size: 12 bytes
 - Precision upto 18 digits
 
 ## char
 
-#### <img src="26.png">
+#### <img src="25.png">
 
 - Size: 1 byte i.e. 8 bits
 - based on ASCII code.
 
 ## wchar_t (wild character)
 
-#### <img src="27.png">
+#### <img src="26.png">
 
 - Size: 2 bytes or 4 bytes(depends upon compiler).
 - based on unicode.
 
 ## bool
 
-#### <img src="28.png">
+#### <img src="27.png">
 
 - can take the values true or false.
 - 1 is for true and 0 is for false.
 - Anything other than 0 is considered true.
 
 ## void
+
+#### <img src="28.png">
 
 - It include empty set of values.
 - When used with function, void specifies that function doesn't return a value.

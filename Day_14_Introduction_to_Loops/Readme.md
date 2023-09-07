@@ -2,6 +2,8 @@
 
 ## Loops?
 
+## <img src="1.png ">
+
 Loops are the iteration control structure which are used to repeat a block of statements or code.
 
 ## Why we need loops?
