@@ -9,14 +9,16 @@
 
 ## Input stream
 
-<img src="30.png">
+#### <img src="30.png">
+
 - It is the flow of bytes from input device to the main memory.
 - It consists object 'cin'.
 - Keyboard is used for standard input.
 
 ## Output stream
 
-<img src="31.png">
+#### <img src="31.png">
+
 - It is the flow of bytes from main memory to output device.
 - It consists of object like 'cout', 'cerr', and 'clog'.
 - Screen is used for standard output.
@@ -31,7 +33,7 @@
 - '<<' is known as insertion operator.
 - '>>' is known as extraction operator.
 
-#### Example
+### Examples
 
 ```cpp
 // program to print hello world
