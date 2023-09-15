@@ -6,7 +6,7 @@
 - This means that the memory is allocated during the execution of the program, as opposed to being allocated at compile time.
 - When the "new" operator is called, it reserves a block of memory that is large enough to hold the object being created and then returns a pointer to the first byte of that memory block.
 
-#### Syntax
+### Syntax
 
 ```cpp
 pointer_variable = new datatype;
@@ -42,7 +42,7 @@ int main()
 - The "delete" operator releases the memory back to the system, and other parts of the program can use it.
 - We use "delete" operator in order to avoid possible memory leaks.
 
-#### Syntax
+### Syntax
 
 ```cpp
 delete pointer_variable;

@@ -11,7 +11,7 @@
 - In the overloaded insertion and extraction operators, wer should pass the object by reference (or by pointer) rather than by value.
 - Passing by value creates a copy of the object, and any changes made to that copy will not affect the original object resulting garbage value.
 
-#### Syntax
+### Syntax
 
 ```cpp
   // friend functions for overloading >> and << operators
