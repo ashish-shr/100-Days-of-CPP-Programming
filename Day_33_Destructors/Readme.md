@@ -2,6 +2,8 @@
 
 ## Destructor
 
+### <img src="1_Destructor.png">
+
 - A Destructor is a special member function of a class which is executed whenever an object of that class goes out of scope.
 - Destructor is created using tilde(~) sign.
 - Destructor is created automatically by the compiler and invoked automatically when an object of the class goes out of scope.

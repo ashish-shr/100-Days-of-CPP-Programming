@@ -2,6 +2,8 @@
 
 ## Recursion and Recursive function
 
+### <img src="1_Recursion_Recursive_Functions.png">
+
 - A function that calls itself is known as a recursive function. And, this technique is known as recursion.
 - It uses the method of dividing the program into sub-tasks and calling it repeatedly instead of the iterative method which takes lots of time to solve the same problem.
 - As the recursive function calls itself continuously, it is always possible that the program goes into an infinite loop.

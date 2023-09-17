@@ -2,6 +2,8 @@
 
 ## Functions
 
+### <img src="1.png">
+
 A function is a block of code which only runs when it is called. We can pass data, known as parameters, into a function. Functions are used to perform certain actions, and they are important for reusing code: Define the code once, and using it many times.
 
 ## Types

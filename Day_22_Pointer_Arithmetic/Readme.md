@@ -13,6 +13,8 @@
 
 ## Increment/Decrement of a Pointer
 
+### <img src="1.png">
+
 - When a pointer is incremented, it actually increments by the number equal to the size of the data type for which it is a pointer.<br><br>
 - > For Example: If an integer pointer that stores address 1000 is incremented, then it will increment by 4(size of an int), and the new address will point to 1004.
 - When a pointer is decremented, it actually decrements by the number equal to the size of the data type for which it is a pointer.<br><br>
@@ -20,10 +22,14 @@
 
 ## Addition of Integer to Pointer
 
+### <img src="2.png">
+
 - When a pointer is added with an integer value, the value is first multiplied by the size of the data type and then added to the pointer.<br><br>
 - > For Example: Consider the ptr is an integer pointer that stores 1000 as an address. If we add integer 5 to it using the expression, ptr = ptr + 5, then, the final address stored in the ptr will be ptr = 1000 + sizeof(int) \* 5 = 1020.
 
 ## Subtraction of Integer to Pointer
+
+### <img src="3.png">
 
 - When a pointer is subtracted with an integer value, the value is first multiplied by the size of the data type and then subtracted from the pointer similar to an addition.<br><br>
 - > For Example: Consider the ptr is an integer pointer that stores 1000 as an address. If we subtract integer 5 from it using the expression, ptr = ptr – 5, then, the final address stored in the ptr will be ptr = 1000 – sizeof(int) \* 5 = 980.
