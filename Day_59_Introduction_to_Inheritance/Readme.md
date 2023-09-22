@@ -35,21 +35,31 @@ The class that inherits properties from another class is called Subclass or Deri
 
 ### Single Inheritance
 
+### <img src="1.png">
+
 - Single inheritance is a type of inheritance in which a derived class is inherited with only one base class.
 
-### Multiple Inheritances
+### Multiple Inheritance
+
+### <img src="2.png">
 
 - Multiple inheritances are a type of inheritance in which one derived class is inherited with more than one base class.
 
 ### Hierarchical Inheritance
 
+### <img src="3.png">
+
 - A hierarchical inheritance is a type of inheritance in which several derived classes are inherited from a single base class.
 
 ### Multilevel Inheritance
 
+### <img src="4.png">
+
 - Multilevel inheritance is a type of inheritance in which one derived class is inherited from another derived class.
 
 ### Hybrid Inheritance
+
+### <img src="5.png">
 
 - Hybrid inheritance is a combination of multiple inheritance and multilevel inheritance.
 - In hybrid inheritance, a class is derived from two classes as in multiple inheritances.
