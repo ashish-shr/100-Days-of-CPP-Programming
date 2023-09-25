@@ -43,7 +43,7 @@ The class that inherits properties from another class is called Subclass or Deri
 
 ### <img src="2.png">
 
-- Multiple inheritances are a type of inheritance in which one derived class is inherited with more than one base class.
+- Multiple inheritance are a type of inheritance in which one derived class is inherited with more than one base class.
 
 ### Hierarchical Inheritance
 
