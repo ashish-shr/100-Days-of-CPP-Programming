@@ -74,7 +74,7 @@ program.cpp:10:8: note:                 'void A::hello()'
 ObjectName.ClassName::FunctionName();
 ```
 
-### Example
+### Examples
 
 ```cpp
 // program to resolve ambiguity in inheritance
