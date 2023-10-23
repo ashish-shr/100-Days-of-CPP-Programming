@@ -13,7 +13,7 @@ public:
 
 class Derived : public Base
 {
-  virtual void hello()
+  virtual void hello() // hello() cannot be derived
   {
     std::cout << "hello from Derived" << std::endl;
   }
