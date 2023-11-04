@@ -4,7 +4,7 @@
 
 - Inheritance is a feature of OOPs in which new classes are created from the existing classes.
 - The new class created is called "derived class" or "child class" and the existing class is known as the "base class" or "parent class".
-- The derived class now is said to be inherited from the base class.It means, the derived class inherits all the properties of the base class, without changing the properties of base class and may add new features to its own.
+- The derived class now is said to be inherited from the base class. It means, the derived class inherits all the properties of the base class, without changing the properties of base class and may add new features to its own.
 - These new features in the derived class will not affect the base class.
 - The derived class is the specialized class for the base class.
 
@@ -63,3 +63,5 @@ The class that inherits properties from another class is called Subclass or Deri
 
 - Hybrid inheritance is a combination of multiple inheritance and multilevel inheritance.
 - In hybrid inheritance, a class is derived from two classes as in multiple inheritances.
+
+### ⭐Note: Friend Functions cannot be inherited.
