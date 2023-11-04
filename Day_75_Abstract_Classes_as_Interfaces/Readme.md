@@ -1,6 +1,6 @@
 # ⚡Abstract Classes as Interfaces
 
-## Interface
+## Interfaces
 
 - An abstract class that has only pure virtual functions (i.e. Pure Abstract Class) is called an interface.
 - Similar to abstract classes, we cannot create an instance of the interface class.
