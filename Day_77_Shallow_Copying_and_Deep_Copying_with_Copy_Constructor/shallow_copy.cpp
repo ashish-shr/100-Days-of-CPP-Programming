@@ -25,6 +25,12 @@ public:
   {
     std::cout << "Data: " << data << ", Int: " << *ptr << std::endl;
   }
+
+  ~ShallowCopy()
+  {
+    delete ptr;
+    ptr = nullptr;
+  }
 };
 
 int main()
