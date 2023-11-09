@@ -14,10 +14,14 @@ I am excited to embark on a 100-day journey of learning C++ Programming! 🎉 Th
 - **Function overloading:** Exploring the powerful technique of writing multiple functions with the same name but different parameters.
 - **Classes, Objects, Constructor, and Destructor:** Unraveling the core concepts of Object-Oriented Programming, a paradigm widely used in real-world applications.
 - **Types of Constructors:** Mastering the various forms of constructors to initialize objects effectively.
-- **Inheritance and Polymorphism:** Understanding the relationships between classes and leveraging the ability to write flexible and reusable code.
 - **Friend function and Friend class:** Exploring unique relationships between functions and classes that transcend encapsulation boundaries.
-- **Pointer and Virtual Function:** Getting hands-on with memory management and dynamic polymorphism.
+- **Inheritance and Polymorphism:** Understanding the relationships between classes and leveraging the ability to write flexible and reusable code.
 - **Virtual Classes:** Delving deeper into the concepts of virtual classes for creating hierarchies of classes.
+- **Pointer and Virtual Function:** Getting hands-on with memory management and dynamic polymorphism.
 - **File management:** Learning to read from and write to files, is a crucial aspect of data handling in applications.
 - **Exception handling:** Gaining the skills to handle unexpected scenarios gracefully and ensuring robustness.
 - **Templates and STL:** Unleashing the power of generic programming and understanding the Standard Template Library for efficient coding.
+
+### ⭐Also Included
+
+**Vectors, C++ Strings, Smart pointers, Lambda Expressions**
