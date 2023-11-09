@@ -19,7 +19,7 @@ public:
   {
     data = other.data;
     ptr = new int;
-    *ptr = *(other.ptr);
+    *ptr = *other.ptr;
   }
 
   void Display()
