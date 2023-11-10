@@ -5,7 +5,7 @@
 - C++ strings are sequences of characters stored in a char array.
 - Strings are used to store words and text.
 - They are also used to store data, such as numbers and other types of information.
-- C++ strings are the new types of strings that are introduced in C++ as std::string class defined inside <string> header file.
+- C++ strings are the new types of strings that are introduced in C++ as std::string class defined inside `<string>` header file.
 - This provides many advantages over conventional C-style strings such as dynamic size, member functions, etc.
 - We can use our familar operators (+, =, <, <=, >, >=, +=, ==, !=,...) with std::string.
 
