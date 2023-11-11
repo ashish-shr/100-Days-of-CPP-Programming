@@ -3,22 +3,22 @@
 ## What is a Programming Paradigm?
 
 <img src = "1.png">
-Paradigm can be termed as method to solve some problem or do some task. Similarly, Programming Paradigm is a method, style or approach of programming to solve problems. They are mainly of two types: Imperative Programming Paradigm and Declarative Programming Paradigm.
+A paradigm can be termed as a method to solve some problem or do some task. Similarly, a Programming Paradigm is a method, style, or approach of programming to solve problems. They are mainly of two types: Imperative Programming Paradigm and Declarative Programming Paradigm.
 
 ## Types of Programming Paradigm
 
-There are two major types of programming paradigm.
+There are two major types of programming paradigms.
 
 ### 1. Imperative Programming Paradigm
 
 <img src = "2.png">
-It mainly consists of three programming paradigm.
+It mainly consists of three programming paradigms.
 
 #### a. Procedural Oriented Programming Paradigm
 
 - More emphasis on procedures.
 - Code reusability.
-- Examples: C, Pascal etc.
+- Examples: C, Pascal, etc.
 
 #### b. Object Oriented Programming Paradigm
 
@@ -36,7 +36,7 @@ It mainly consists of three programming paradigm.
 ### 2. Declarative Programming Paradigm
 
 <img src = "3.png">
-It mainly consists of three programming paradigm.
+It mainly consists of three programming paradigms.
 
 #### a. Logic Programming Paradigm
 
@@ -53,12 +53,12 @@ It mainly consists of three programming paradigm.
 - Computation based on Mathematical functions.
 - Encapsulation and Hiding implementation.
 - Referential Transparency.
-- Examples: Perl, JavaScript etc.
+- Examples: Perl, JavaScript, etc.
 
 #### c. Database Programming Paradigm
 
 - Data-centric programming methodology.
-- Focuses on definition, query, manipulation and control of data.
+- Focuses on definition, query, manipulation, and control of data.
 - Example: SQL.
 
 ## Imperative and Declarative Programming Paradigm
@@ -66,45 +66,45 @@ It mainly consists of three programming paradigm.
 ### 1. Imperative Programming Paradigm
 
 - Oldest programming paradigm.
-- Relates with machine architecture.
+- Relates to machine architecture.
 - Goal-oriented.
 - Step-by-Step Execution i.e. Sequential Execution.
-- Examples: C, Fortan, Basic etc.
+- Examples: C, Fortran, Basic, etc.
 
 ### 2. Declarative Programming Paradigm
 
 - Emphasis on logic of computation.
 - Focuses on what-to-do rather than how-to-do.
-- Examples: Prolog, SQL etc.
+- Examples: Prolog, SQL, etc.
 
 ##
 
-## Procedural Oriented and Object Oriented Programming Paradigm
+## Procedural-Oriented and Object-Oriented Programming Paradigm
 
 ### 1. Procedural Oriented Programming Paradigm
 
 #### <img src = "4.png">
 
-- Whole program is divided into multiple functions.
+- The Whole program is divided into multiple functions.
 - These functions are interdependent as well.
-- Each and every functions have their own local data and can share global data.
+- Each and every function has its own local data and can share global data.
 - Due to more movement of data, there is less data security.
-- More focus is given on algorithm part i.e. how-to-do tasks rather than data.
-- Not suitable for large and complex scalable applications due to interdependency of functions.
+- More focus is given to the algorithm part i.e. how-to-do tasks rather than data.
+- Not suitable for large and complex scalable applications due to the interdependency of functions.
 - Code reusability.
-- Examples: C, Pascal etc.
+- Examples: C, Pascal, etc.
 
 ### 2. Object Oriented Programming Paradigm
 
 #### <img src = "5.png">
 
-- Whole program is divided into parts i.e. objects.
-- Data and function is wrapped into a single unit called Object.
-- These objects can communicate with each other via message passing techniques.
-- Objects relates to real world entity like a pen, marker, bottle, products etc.
+- The Whole program is divided into parts i.e. objects.
+- Data and function are wrapped into a single unit called Object.
+- These objects can communicate with each other via message-passing techniques.
+- Objects relate to a real-world entity like a pen, marker, bottle, products, etc.
 - Data is more secure because of less movement of data.
-- More focus is given on the data rather than algorithm part.
-- Different kinds of access specifier i.e. Private, Public and Protected are used for data security.
+- More focus is given to the data rather than the algorithm part.
+- Different kinds of access specifiers i.e. Private, Public, and Protected are used for data security.
 - Private means nobody can access the data, Public means anybody can access the data and Protected means only the selected users can access the data.
 - Code reusability.
 - Suitable for complex and scalable applications.
