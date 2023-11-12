@@ -21,7 +21,3 @@ I am excited to embark on a 100-day journey of learning C++ Programming! 🎉 Th
 - **File management:** Learning to read from and write to files, is a crucial aspect of data handling in applications.
 - **Exception handling:** Gaining the skills to handle unexpected scenarios gracefully and ensuring robustness.
 - **Templates and STL:** Unleashing the power of generic programming and understanding the Standard Template Library for efficient coding.
-
-### ⭐Also Included
-
-**Vectors, C++ Strings, Smart pointers, Lambda Expressions**
