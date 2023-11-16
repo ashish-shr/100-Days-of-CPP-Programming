@@ -145,7 +145,7 @@ Program continues
 ```
 
 ```cpp
-// divide by zero example in function
+// throwing an exception from a function
 
 #include <iostream>
 
