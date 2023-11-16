@@ -1,10 +1,10 @@
-// multiple catch statements
+// handling multiple exceptions
 
 #include <iostream>
 
 void test(int x)
 {
-  // multiple catch statements
+  // handling multiple exceptions
   try
   {
     if (x == 0)
