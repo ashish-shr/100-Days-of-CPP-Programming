@@ -6,6 +6,8 @@ I am excited to embark on a 100-day journey of learning C++ Programming! 🎉 Th
 
 ## 🎯 Topics Covered
 
+### <img src="read.png">
+
 - **What is OOP?** Understanding the fundamental concept of Object-Oriented Programming and its significance in modern software development.
 - **Structure of CPP Programs:** Grasping the layout and organization of C++ programs to build robust and scalable applications.
 - **Data types, variables, keywords, and identifiers:** Laying the foundation with essential building blocks of C++.
