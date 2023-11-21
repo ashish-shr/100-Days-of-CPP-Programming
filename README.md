@@ -1,4 +1,4 @@
-# 🚀 100-Days of C++ Programming
+# 🚀 100 Days of C++ Programming
 
 ## 🪟 Overview
 
