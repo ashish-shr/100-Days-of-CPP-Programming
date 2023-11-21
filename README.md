@@ -2,7 +2,7 @@
 
 ## 🪟 Overview
 
-I am excited to embark on a 100-day journey of learning C++ Programming! 🎉 Throughout this period, I will be mastering C++ Programming, starting from the basics and progressing to advanced concepts. I have outlined a comprehensive curriculum that covers a wide range of topics, ensuring a solid understanding of this versatile language.
+This is my 100-day journey of learning C++ Programming! 🎉 Throughout this period, I have mastered C++ Programming, starting from the basics and progressing to advanced concepts. I have outlined a comprehensive curriculum that covers a wide range of topics, ensuring a solid understanding of this versatile language.
 
 ## 🎯 Topics Covered
 
