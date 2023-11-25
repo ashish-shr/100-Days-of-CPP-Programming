@@ -382,7 +382,6 @@ Enter something to write on a file: Education beats beauty
 test5.txt
 ---------
 Education beats beauty
-
 ```
 
 ```cpp
