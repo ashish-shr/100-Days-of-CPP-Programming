@@ -102,3 +102,27 @@ Output:
 Max(3, 21): 21
 Max(8, 7, 3): 8
 ```
+
+## Default arguments in function templates
+
+- We can specify the default arguments in our function templates.
+- While doing so, we can call the function template without specifying the datatype.
+- And if, we do specify the datatype, then the default argument in our function template will be overwritten.
+- The rules are same as specifying the default arguments in functions.
+
+### Syntax
+
+```cpp
+//defining a function template with default argument
+template <typename T = int>
+T functionName(T parameter1, T parameter2, ...)
+{
+  // code
+}
+
+int main()
+{
+  functionName <>(1, 3); //both arguments will taken as integer value
+  ... ... ...
+}
+```
