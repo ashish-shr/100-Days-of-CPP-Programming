@@ -1,58 +1,47 @@
 // Program to demonstrate Hierarchial inheritance
 
 #include <iostream>
-using namespace std;
 
-// base class
-class StudentDetails
+// Base class
+class Animal
 {
-  int id;
-  string name;
-
 public:
-  void getDetails()
+  void eat() const
   {
-    cout << "Student ID: ";
-    cin >> id;
-    cout << "Student Name: ";
-    cin >> name;
+    std::cout << "Animal is eating" << std::endl;
   }
 };
 
-// first derived class
-class SubjectMarks : public StudentDetails
+// Derived class 1
+class Dog : public Animal
 {
-protected:
-  float physics, maths;
-
 public:
-  void getMarks()
+  void bark() const
   {
-    cout << "Physics Marks: ";
-    cin >> physics;
-    cout << "Maths Marks: ";
-    cin >> maths;
+    std::cout << "Dog is barking" << std::endl;
   }
 };
 
-// second derived class
-class Result : public SubjectMarks
+// Derived class 2
+class Cat : public Animal
 {
-  float totalMarks;
-
 public:
-  void getResult()
+  void meow() const
   {
-    totalMarks = physics + maths;
-    cout << "Total Marks: " << totalMarks;
+    std::cout << "Cat is meowing" << std::endl;
   }
 };
 
 int main()
 {
-  Result Bishal;
-  Bishal.getDetails();
-  Bishal.getMarks();
-  Bishal.getResult();
+  Dog myDog;
+  Cat myCat;
+
+  myDog.eat();  // Animal is eating
+  myDog.bark(); // Dog is barking
+
+  myCat.eat();  // Animal is eating
+  myCat.meow(); // Cat is meowing
+
   return 0;
 }
