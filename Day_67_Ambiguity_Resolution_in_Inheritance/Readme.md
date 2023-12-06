@@ -110,10 +110,8 @@ class C : public A, public B
 int main()
 {
   C obj;
-
-  // Calling function hello()
-  obj.hello();
-
+  obj.A::hello(); // calling hello() of Base Class A
+  obj.B::hello(); // calling hello() of Base Class B
   return 0;
 }
 ```
