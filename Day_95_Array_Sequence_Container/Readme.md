@@ -1,4 +1,4 @@
-# 🍃Sequence Container - Array
+# 🍃Sequence Containers - Arrays in STL
 
 ## Arrays in STL
 
