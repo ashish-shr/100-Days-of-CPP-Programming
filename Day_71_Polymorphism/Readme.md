@@ -9,7 +9,7 @@ There are two types of polymorphism in C++:
 - Compile-time polymorphism: This is also called static (or early) binding.
 - Runtime polymorphism: This is also called dynamic (or late) binding.
 
-## Compile-time, Static or Early Binding Polymorphism
+## Compile-time, Static or Early Binding or Static Linking Polymorphism
 
 - Compile-time Polymorphism includes
   - Function/Method Overloading
