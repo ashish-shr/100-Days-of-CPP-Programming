@@ -80,7 +80,7 @@ This is my 100-day journey of learning C++ Programming! 🎉 Throughout this per
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_39_Friend_Functions">Friend Functions</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_40_Friend_Classes">Friend Classes</a>
 
-### 7. Operator Overloading
+### 9. Operator Overloading
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_43_Operator_Overloading">Introduction to Operator Overloading</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_44_Overloading_Equality_Operator">Overloading Equality Operator</a>
@@ -96,7 +96,7 @@ This is my 100-day journey of learning C++ Programming! 🎉 Throughout this per
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_57_String_Manipulation_using_Operator_Overloading">String Manipulation using Operator Overloading</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_58_Data_Conversion">Data Conversion</a>
 
-### 8. Inheritance
+### 10. Inheritance
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_59_Introduction_to_Inheritance">Introduction to Inheritance</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_60_Inheritance_Syntax_and_Visibility_Modes">Inheritance Syntax and Visibility Modes</a>
@@ -112,7 +112,7 @@ This is my 100-day journey of learning C++ Programming! 🎉 Throughout this per
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_70_Destructors_in_Inheritance">Destructors in Inheritance</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_89_Association_Composition_Aggregation">Association, Composition and Aggregation</a>
 
-### 9. Polymorphism, Abstraction and Encapsulation
+### 11. Polymorphism, Abstraction and Encapsulation
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_71_Polymorphism">Introduction to Polymorphism</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_72_Virtual_Functions_and_Virtual_Destructors">Virtual Functions and Virtual Destructors</a>
@@ -120,22 +120,22 @@ This is my 100-day journey of learning C++ Programming! 🎉 Throughout this per
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_74_Pure_Virtual_Functions_and_Abstract_Classes">Pure Virtual Functions and Abstract Classes</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_75_Abstract_Classes_as_Interfaces">Abstract Classes as Interfaces</a>
 
-### 10. Exception Handling
+### 12. Exception Handling
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_83_Exception_Handling_Concept">Exception Handling Concept</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_84_Handling_Multiple_Exceptions">Handling Multiple Exceptions</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_85_Exception_Handling_Options">Exception Handling Options</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_86_Stack_Unwinding_and_Standard_Exceptions">Stack Unwinding and Standard Exceptions</a>
 
-### 11. File Handling
+### 13. File Handling
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_87_Files">Files, File Stream, I/O Operations via Files</a>
 
-### 12. Namespaces
+### 14. Namespaces
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_88_Namespace">Namespaces</a>
 
-### 13. Standard Template Library (STL)
+### 15. Standard Template Library (STL)
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_90_Introduction_to_STL">Introduction to STL</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_91_Templates">Templates in C++</a>
@@ -150,11 +150,11 @@ This is my 100-day journey of learning C++ Programming! 🎉 Throughout this per
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_99_Stack">Stack [Container Adaptor]</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_Hundred_100_Queue_and_Priority_Queue_100">Queue and Priority Queue[Container Adaptor]</a>
 
-### 14. Smart Pointers
+### 16. Smart Pointers
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_80_Smart_Pointers">Smart Pointers [Unique, Shared and Weak Pointers]</a>
 
-### 15. Lambda Expressions
+### 17. Lambda Expressions
 
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_81_Lambda_Expressions">Introduction to Lambda Expressions</a>
 - <a href="https://github.com/ashish-shr/100-Days-of-CPP-Programming/tree/main/Day_82_Capture_Lists_in_Lambda_Expressions">Capture Lists in Lambda Expressions</a>
